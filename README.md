@@ -130,7 +130,7 @@ sql-practice/
 | 53 | Aggregation and Window Functions | Solve 15 analytical questions |
 | 54 | Debugging SQL | Fix incorrect queries and explain errors |
 | 55 | Project Completion | Finish a SQL project with a clean README |
-| 56 | Mock Interview | Complete a timed SQL assessment |
+
 
 ## GitHub Commit Workflow
 
